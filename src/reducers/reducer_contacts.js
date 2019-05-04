@@ -37,7 +37,7 @@ export default function() {
       languages: "English and French"
     },
     {
-      name: "Yunge",
+      name: "YUNGE",
       status: "ONLINE",
       phone: "132440220798",
       country: "Germany",
