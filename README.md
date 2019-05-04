@@ -10,6 +10,10 @@ This is a customized login page made for Team MAYDE [Globally Networked Learning
 
 The objective of this activity is to create conversation between students in different countries. Students are assigned pen pals in another country but rather than writing to them they film vlogs of their experiences studying abroad. The activity is designed for students who are on exchange, they can send back their videos/pictures to their home institution or to students who on exchange at their home institution. But it can be used by students who are curious of being a student in another country or by institutions wanting to promote their school abroad.
 
+## DEMO
+
+[LIVE DEMO HERE](https://dvampofo.github.io/gnlLogin/)
+
 ## ACKNOWLEDGEMENTS
 
 Code from the Contact List React+Redux Tutorial, based on
