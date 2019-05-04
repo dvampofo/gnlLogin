@@ -1,7 +1,7 @@
 export default function() {
   return [
     {
-      name: "Miguel",
+      name: "DAVID",
       status: "ONLINE",
       phone: "123456789",
       country: "France",
@@ -10,7 +10,7 @@ export default function() {
       languages: "Spanish and English"
     },
     {
-      name: "Peter",
+      name: "MAIRA",
       status: "OFFLINE",
       phone: "883292300348",
       country: "England",
@@ -19,16 +19,16 @@ export default function() {
       languages: "English"
     },
     {
-      name: "Jessica",
+      name: "ANGELO",
       status: "ONLINE",
       phone: "8743847638473",
       country: "Australia",
-      university: "University of Sudney",
+      university: "University of Sydney",
       files: "3",
       languages: "English"
     },
     {
-      name: "Maria",
+      name: "EDWARD",
       status: "OFFLINE",
       phone: "84722341000",
       country: "Canada",

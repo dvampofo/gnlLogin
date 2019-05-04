@@ -12,7 +12,7 @@ The objective of this activity is to create conversation between students in dif
 
 ## DEMO
 
-[LIVE DEMO HERE](https://dvampofo.github.io/gnlLogin/)
+**[LIVE DEMO HERE](https://dvampofo.github.io/gnlLogin/)**
 
 ## ACKNOWLEDGEMENTS
 
